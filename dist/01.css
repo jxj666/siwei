@@ -75,3 +75,9 @@ a {
   border: 1px dashed #eee;
   padding: 1px;
 }
+
+.buttonBox {
+  display: flex;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+}

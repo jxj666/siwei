@@ -3,12 +3,13 @@
  * @Author: jinxiaojian
  * @Email: jinxiaojian@youxin.com
  * @Date: 2020-01-13 16:02:31
- * @LastEditTime : 2020-01-13 19:24:41
- * @LastEditors  : 靳肖健
+ * @LastEditTime: 2021-04-25 17:39:30
+ * @LastEditors: jinxiaojian
  -->
 # siwei
 
-## [//m.jxjweb.top/siwei/dist/](//m.jxjweb.top/siwei/dist/)
+##  个人服务器 [//m.jxjweb.top/siwei/dist/](//m.jxjweb.top/siwei/dist/)
+##   github page [//jxj322991.github.io/siwei/dist/](//jxj322991.github.io/siwei/dist/)
 
 ### 前端思维导图 
 
